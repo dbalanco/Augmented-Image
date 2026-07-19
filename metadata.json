@@ -1,0 +1,6 @@
+{
+  "name": "Augmented Image",
+  "description": "Generate images, Flash annotates and makes them interactive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
